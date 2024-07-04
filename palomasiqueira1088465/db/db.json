@@ -1,0 +1,60 @@
+{
+    "colegas": [
+      {
+        "id": 1,
+        "nome": "João Lopes",
+        "foto": "https://avatars.githubusercontent.com/u/25807856?v=4",
+        "github": "https://github.com/joaovitor32"
+      },
+      {
+        "id": 2,
+        "nome": "Abigail",
+        "foto": "https://avatars.githubusercontent.com/u/109290913?v=4",
+        "github": "https://github.com/abenaTenkorang"
+      },
+      {
+        "id": 3,
+        "nome": "Júlia Marques",
+        "foto": "https://avatars.githubusercontent.com/u/117701",
+        "github": "https://github.com/juliamarques"
+      }
+    ],
+    "conteudos": [
+      {
+        "id": 1,
+        "titulo": "Tecnologia e Felinos",
+        "descricao": "Como a tecnologia está revolucionando os cuidados com os felinos.",
+        "imagem": "https://example.com/image1.jpg",
+        "url": "https://caesegatos.com.br/tecnologia-esta-revolucionando-os-cuidados-com-a-saude-e-o-bem-estar-dos-felinos/"
+      },
+      {
+        "id": 2,
+        "titulo": "Programação para Iniciantes",
+        "descricao": "Guia completo para iniciantes em programação.",
+        "imagem": "https://example.com/image2.jpg",
+        "url": "https://programacao.com.br/guia-completo"
+      },
+      {
+        "id": 3,
+        "titulo": "Inteligência Artificial",
+        "descricao": "Como a IA está mudando o mundo.",
+        "imagem": "https://example.com/image3.jpg",
+        "url": "https://ia.com.br/ia-no-mundo"
+      }
+    ],
+    "repositorios": [
+      {
+        "id": 1,
+        "nome": "Meu Projeto",
+        "descricao": "Descrição do meu projeto",
+        "link": "https://github.com/meu-projeto"
+      },
+      {
+        "id": 2,
+        "nome": "Outro Projeto",
+        "descricao": "Descrição de outro projeto",
+        "link": "https://github.com/outro-projeto"
+      }
+    ]
+  }
+  

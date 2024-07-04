@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding-top: 60px; /* Ajusta o conteúdo abaixo do menu fixo */
+}
+
+header {
+    background-color: #333;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Garante que o menu fique acima de outros elementos */
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.container-central {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.colega-card {
+    width: 14rem;
+    margin-bottom: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.colega-card .card-img-top {
+    height: 100px;
+    object-fit: cover;
+}
+
+.repo-card {
+    width: 18rem;
+    margin-bottom: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
